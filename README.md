@@ -69,7 +69,7 @@ __Proje; Test Suites/ParallelRunner.xml dosyasının çalıştırılması ile te
 - Allure
 - Cucumber
 - Driver ve Raporlama kütüphaneleri
-- 
+
 ---------
 ## Test Raporları
 
