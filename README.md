@@ -13,7 +13,7 @@ _______
 - Filtreleme bölümünden renk seçeneği **siyah** seçilecek.
 - Sonuçlar listele yapılıp ,gelen ürün sonuçlarından biri seçilip ,üstüne tıklanacak.
 - Beden medium seçilecek, sepete ekle butonuna tıklanacak.
-- Sepetim’e gidilecek ,ürünün adı ,adeti ,bedeni kontrol edilecek.
+- Sepetime gidilecek ,ürünün adı ,adeti ,bedeni kontrol edilecek.
 - Ödeme yap butonuna tıklayıp, ödeme ekranına gidildiği, doğru ekrana yönlendirildiği kontrol edilecek.
 
 ## Projenin Dosya Yapısı
@@ -31,7 +31,7 @@ Proje dosya yapısına ait ekran görüntüsü:
 
 > src/main/java/Framework 
 
-konumunda lod yapısına ait yardımcı sınıflar mevcut bulunmaktadır. Bu sınıflar driverı ayağa kaldırma, kod içinde yardımcı elementlerin tanımlanması, hookların tanımlanmasını içermektedir.
+konumunda kod yapısına ait yardımcı sınıflar mevcut bulunmaktadır. Bu sınıflar driverı ayağa kaldırma, kod içinde yardımcı elementlerin tanımlanması, hookların tanımlanmasını içermektedir.
 
 --------
 
