@@ -24,7 +24,7 @@ Proje dosya yapısına ait ekran görüntüsü:
 ![projeDosyası](https://github.com/yasinTru/Lc-Waikiki-WebProject/blob/master/LcWaikikiProject-Web/src/main/resources/webSs/ProjectFolder.PNG)
 
 
-###Projenin;
+### Projenin;
 -----------
 
 
